@@ -10,10 +10,11 @@ npm i --force
 https://orgpg-portfolio.vercel.app
 ```
 
-### Build-and-Deployment
+## Vercel Build-and-Deployment
 
-## Framework Settings
+### Framework Settings
 
+```sh
 Bulid Command - next build
 
 OutPut directory  - Next.js Default
@@ -21,4 +22,6 @@ OutPut directory  - Next.js Default
 Install Command - bun install
 
 Developments Command - next
+
+```
 
